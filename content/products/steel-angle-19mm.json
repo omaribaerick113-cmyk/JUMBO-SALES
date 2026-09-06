@@ -1,0 +1,36 @@
+{
+  "name": "Angle Bar 3/4\" x 3/4\" x 1/8\"",
+  "slug": "steel-angle-19mm",
+  "sku": "STL-ANG-19",
+  "category": "steel",
+  "subcategory": "Angle Bars",
+  "brand": "PLACEHOLDER",
+  "description": "Confirm exact current price and stock with us \u2014 this listing shows a typical market estimate for this size.",
+  "price": 890,
+  "previousPrice": null,
+  "priceUnit": "per piece",
+  "currency": "KES",
+  "mainImage": "/images/products/steel/angle-bars-galvanized-1.jpg",
+  "images": [
+    "/images/products/steel/angle-bars-galvanized-1.jpg",
+    "/images/products/steel/angle-bars-mixed-1.jpg"
+  ],
+  "imageAlt": "Angle Bar 3/4\" x 3/4\" x 1/8\"",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Type",
+      "value": "Angle Bar"
+    },
+    {
+      "label": "Size",
+      "value": "3/4\" x 3/4\" x 1/8\""
+    }
+  ],
+  "seoTitle": "Angle Bar 3/4\" x 3/4\" x 1/8\" | Jumbo Sales",
+  "seoDescription": "Angle Bar 3/4\" x 3/4\" x 1/8\" from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Roofing Ridges & Accessories",
+  "slug": "mabati-ridges-accessories",
+  "sku": "MAB-ACC-01",
+  "category": "mabati",
+  "subcategory": "Accessories",
+  "brand": "PLACEHOLDER",
+  "description": "Roofing ridges and related accessories to complete your mabati roofing installation. Ask us which ridge type matches your chosen profile and colour.",
+  "price": 420,
+  "previousPrice": null,
+  "priceUnit": "per piece",
+  "currency": "KES",
+  "mainImage": "/images/products/mabati/zentile-black-1.jpg",
+  "images": [
+    "/images/products/mabati/zentile-black-1.jpg"
+  ],
+  "imageAlt": "Roofing ridge accessory",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Type",
+      "value": "Roofing Ridge / Accessory"
+    }
+  ],
+  "seoTitle": "Roofing Ridges & Accessories | Jumbo Sales",
+  "seoDescription": "Roofing ridges and accessories from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

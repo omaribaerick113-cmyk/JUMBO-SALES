@@ -1,0 +1,40 @@
+{
+  "name": "Reinforcement Bar D16 (16mm)",
+  "slug": "steel-rebar-d16",
+  "sku": "STL-REB-16",
+  "category": "steel",
+  "subcategory": "Reinforcement Bars",
+  "brand": "PLACEHOLDER",
+  "description": "D16 (16mm) reinforcement bar (rebar) for concrete construction. Standard length; confirm exact length in stock with us.",
+  "price": 2020,
+  "previousPrice": null,
+  "priceUnit": "per piece",
+  "currency": "KES",
+  "mainImage": "/images/products/steel/reinforcement-bars-2.jpg",
+  "images": [
+    "/images/products/steel/reinforcement-bars-2.jpg",
+    "/images/products/steel/reinforcement-bars-1.jpg"
+  ],
+  "imageAlt": "Steel reinforcement bars, D16",
+  "availability": "available",
+  "hidden": false,
+  "featured": true,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Type",
+      "value": "Reinforcement Bar"
+    },
+    {
+      "label": "Diameter",
+      "value": "16mm"
+    },
+    {
+      "label": "Grade",
+      "value": "PLACEHOLDER"
+    }
+  ],
+  "seoTitle": "D16 Reinforcement Bar | Jumbo Sales",
+  "seoDescription": "D16 steel reinforcement bars from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

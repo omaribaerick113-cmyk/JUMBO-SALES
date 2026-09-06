@@ -1,0 +1,51 @@
+{
+  "name": "20,000L Water Tank",
+  "slug": "20000l-water-tank",
+  "sku": "TANK-20000",
+  "category": "water-tanks",
+  "subcategory": "Vertical Tank",
+  "brand": "Jumbo Tank",
+  "description": "20,000 litre Jumbo Tank water storage tank. Food-grade material, UV stabilized, heavy-duty construction, leak-proof lid. Diameter 2.85m, height 3.15m, 2 inch outlet. Ideal for larger households, farms, sites and commercial use.",
+  "price": 98000,
+  "previousPrice": null,
+  "priceUnit": "per tank",
+  "currency": "KES",
+  "mainImage": "/images/products/water-tanks/jumbo-tank-20000l.jpg",
+  "images": [
+    "/images/products/water-tanks/jumbo-tank-20000l.jpg"
+  ],
+  "imageAlt": "Jumbo Tank 20,000 litre water tank",
+  "availability": "available",
+  "hidden": false,
+  "featured": true,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Capacity",
+      "value": "20,000L"
+    },
+    {
+      "label": "Brand",
+      "value": "Jumbo Tank"
+    },
+    {
+      "label": "Diameter",
+      "value": "2.85 m"
+    },
+    {
+      "label": "Height",
+      "value": "3.15 m"
+    },
+    {
+      "label": "Outlet Size",
+      "value": "2 inch"
+    },
+    {
+      "label": "Material",
+      "value": "Food-grade, UV stabilized polyethylene"
+    }
+  ],
+  "seoTitle": "20,000L Water Tank | Jumbo Sales",
+  "seoDescription": "20,000 litre Jumbo Tank water tanks from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

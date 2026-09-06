@@ -1,0 +1,43 @@
+{
+  "name": "3,000L Water Tank",
+  "slug": "3000l-water-tank",
+  "sku": "TANK-3000",
+  "category": "water-tanks",
+  "subcategory": "Vertical Tank",
+  "brand": "Jumbo Tank",
+  "description": "3,000 litre Jumbo Tank water storage tank with double-layer construction and 20-year warranty.",
+  "price": 14500,
+  "previousPrice": null,
+  "priceUnit": "per tank",
+  "currency": "KES",
+  "mainImage": "/images/products/water-tanks/jumbo-tank-3000l.jpg",
+  "images": [
+    "/images/products/water-tanks/jumbo-tank-3000l.jpg"
+  ],
+  "imageAlt": "3,000L Water Tank - Jumbo Tank",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Capacity",
+      "value": "3,000L"
+    },
+    {
+      "label": "Brand",
+      "value": "Jumbo Tank"
+    },
+    {
+      "label": "Material",
+      "value": "Double-layer polyethylene"
+    },
+    {
+      "label": "Warranty",
+      "value": "20 years"
+    }
+  ],
+  "seoTitle": "3,000L Water Tank | Jumbo Sales",
+  "seoDescription": "3,000 litre Tembo water tanks from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

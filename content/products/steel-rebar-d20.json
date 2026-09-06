@@ -1,0 +1,40 @@
+{
+  "name": "Reinforcement Bar D20 (20mm)",
+  "slug": "steel-rebar-d20",
+  "sku": "STL-REB-20",
+  "category": "steel",
+  "subcategory": "Reinforcement Bars",
+  "brand": "PLACEHOLDER",
+  "description": "D20 (20mm) reinforcement bar (rebar) for concrete construction. Standard length; confirm exact length in stock with us.",
+  "price": 3000,
+  "previousPrice": null,
+  "priceUnit": "per piece",
+  "currency": "KES",
+  "mainImage": "/images/products/steel/reinforcement-bars-2.jpg",
+  "images": [
+    "/images/products/steel/reinforcement-bars-2.jpg",
+    "/images/products/steel/reinforcement-bars-1.jpg"
+  ],
+  "imageAlt": "Steel reinforcement bars, D20",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Type",
+      "value": "Reinforcement Bar"
+    },
+    {
+      "label": "Diameter",
+      "value": "20mm"
+    },
+    {
+      "label": "Grade",
+      "value": "PLACEHOLDER"
+    }
+  ],
+  "seoTitle": "D20 Reinforcement Bar | Jumbo Sales",
+  "seoDescription": "D20 steel reinforcement bars from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

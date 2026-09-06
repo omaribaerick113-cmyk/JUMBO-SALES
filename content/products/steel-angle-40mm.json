@@ -1,0 +1,36 @@
+{
+  "name": "Angle Bar 40x40x3mm",
+  "slug": "steel-angle-40mm",
+  "sku": "STL-ANG-40",
+  "category": "steel",
+  "subcategory": "Angle Bars",
+  "brand": "PLACEHOLDER",
+  "description": "Confirm exact current price and stock with us \u2014 this listing shows a typical market estimate for this size.",
+  "price": 1875,
+  "previousPrice": null,
+  "priceUnit": "per piece",
+  "currency": "KES",
+  "mainImage": "/images/products/steel/angle-bars-mixed-1.jpg",
+  "images": [
+    "/images/products/steel/angle-bars-mixed-1.jpg",
+    "/images/products/steel/angle-bars-oxidized-1.jpg"
+  ],
+  "imageAlt": "Angle Bar 40x40x3mm",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Type",
+      "value": "Angle Bar"
+    },
+    {
+      "label": "Size",
+      "value": "40 x 40 x 3mm"
+    }
+  ],
+  "seoTitle": "Angle Bar 40x40x3mm | Jumbo Sales",
+  "seoDescription": "Angle Bar 40x40x3mm from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

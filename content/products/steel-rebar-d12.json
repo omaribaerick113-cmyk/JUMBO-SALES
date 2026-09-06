@@ -1,0 +1,40 @@
+{
+  "name": "Reinforcement Bar D12 (12mm)",
+  "slug": "steel-rebar-d12",
+  "sku": "STL-REB-12",
+  "category": "steel",
+  "subcategory": "Reinforcement Bars",
+  "brand": "PLACEHOLDER",
+  "description": "D12 (12mm) reinforcement bar (rebar) for concrete construction. Standard length; confirm exact length in stock with us.",
+  "price": 1020,
+  "previousPrice": null,
+  "priceUnit": "per piece",
+  "currency": "KES",
+  "mainImage": "/images/products/steel/reinforcement-bars-1.jpg",
+  "images": [
+    "/images/products/steel/reinforcement-bars-1.jpg",
+    "/images/products/steel/reinforcement-bars-2.jpg"
+  ],
+  "imageAlt": "Steel reinforcement bars, D12",
+  "availability": "available",
+  "hidden": false,
+  "featured": true,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Type",
+      "value": "Reinforcement Bar"
+    },
+    {
+      "label": "Diameter",
+      "value": "12mm"
+    },
+    {
+      "label": "Grade",
+      "value": "PLACEHOLDER"
+    }
+  ],
+  "seoTitle": "D12 Reinforcement Bar | Jumbo Sales",
+  "seoDescription": "D12 steel reinforcement bars from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

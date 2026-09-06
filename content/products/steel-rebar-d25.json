@@ -1,0 +1,40 @@
+{
+  "name": "Reinforcement Bar D25 (25mm)",
+  "slug": "steel-rebar-d25",
+  "sku": "STL-REB-25",
+  "category": "steel",
+  "subcategory": "Reinforcement Bars",
+  "brand": "PLACEHOLDER",
+  "description": "D25 (25mm) reinforcement bar (rebar) for concrete construction. Standard length; confirm exact length in stock with us.",
+  "price": 5250,
+  "previousPrice": null,
+  "priceUnit": "per piece",
+  "currency": "KES",
+  "mainImage": "/images/products/steel/reinforcement-bars-2.jpg",
+  "images": [
+    "/images/products/steel/reinforcement-bars-2.jpg",
+    "/images/products/steel/reinforcement-bars-1.jpg"
+  ],
+  "imageAlt": "Steel reinforcement bars, D25",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Type",
+      "value": "Reinforcement Bar"
+    },
+    {
+      "label": "Diameter",
+      "value": "25mm"
+    },
+    {
+      "label": "Grade",
+      "value": "PLACEHOLDER"
+    }
+  ],
+  "seoTitle": "D25 Reinforcement Bar | Jumbo Sales",
+  "seoDescription": "D25 steel reinforcement bars from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

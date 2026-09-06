@@ -1,0 +1,44 @@
+{
+  "name": "Corrugated Mabati Gauge 30 Glossy Colour",
+  "slug": "mabati-corrugated-glossy-g30",
+  "sku": "MAB-COR-30G",
+  "category": "mabati",
+  "subcategory": "Corrugated",
+  "brand": "PLACEHOLDER",
+  "description": "Corrugated Mabati Gauge 30 Glossy Colour \u2014 confirm current stock, length options and colour availability with us.",
+  "price": 520,
+  "previousPrice": null,
+  "priceUnit": "per metre",
+  "currency": "KES",
+  "mainImage": "/images/products/mabati/corrugated-glossy-red-gauge30-1.jpg",
+  "images": [
+    "/images/products/mabati/corrugated-glossy-red-gauge30-1.jpg",
+    "/images/products/mabati/corrugated-glossy-blue-gauge28-1.jpg"
+  ],
+  "imageAlt": "Corrugated Mabati Gauge 30 Glossy Colour",
+  "availability": "available",
+  "hidden": false,
+  "featured": true,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Profile",
+      "value": "Corrugated"
+    },
+    {
+      "label": "Gauge",
+      "value": "30"
+    },
+    {
+      "label": "Finish",
+      "value": "Glossy colour"
+    },
+    {
+      "label": "Colour",
+      "value": "Red (other colours available)"
+    }
+  ],
+  "seoTitle": "Corrugated Mabati Gauge 30 Glossy Colour | Jumbo Sales",
+  "seoDescription": "Corrugated Mabati Gauge 30 Glossy Colour from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

@@ -1,0 +1,43 @@
+{
+  "name": "2,000L Water Tank",
+  "slug": "2000l-water-tank",
+  "sku": "TANK-2000",
+  "category": "water-tanks",
+  "subcategory": "Vertical Tank",
+  "brand": "Jumbo Tank",
+  "description": "2,000 litre Jumbo Tank water storage tank with double-layer construction and 20-year warranty.",
+  "price": 10500,
+  "previousPrice": null,
+  "priceUnit": "per tank",
+  "currency": "KES",
+  "mainImage": "/images/products/water-tanks/jumbo-tank-2000l.jpg",
+  "images": [
+    "/images/products/water-tanks/jumbo-tank-2000l.jpg"
+  ],
+  "imageAlt": "2,000L Water Tank - Jumbo Tank",
+  "availability": "available",
+  "hidden": false,
+  "featured": true,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Capacity",
+      "value": "2,000L"
+    },
+    {
+      "label": "Brand",
+      "value": "Jumbo Tank"
+    },
+    {
+      "label": "Material",
+      "value": "Double-layer polyethylene"
+    },
+    {
+      "label": "Warranty",
+      "value": "20 years"
+    }
+  ],
+  "seoTitle": "2,000L Water Tank | Jumbo Sales",
+  "seoDescription": "2,000 litre Tembo water tanks from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

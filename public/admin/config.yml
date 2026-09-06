@@ -1,0 +1,169 @@
+backend:
+  name: github
+  repo: omaribaerick113-cmyk/JUMBO-SALES
+  branch: main
+  base_url: https://jumbo-sales-qb2i.vercel.app # TODO: confirm this matches your live oauth-proxy URL
+  auth_endpoint: api/auth
+
+publish_mode: simple
+
+media_folder: "public/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "products"
+    label: "Products"
+    label_singular: "Product"
+    folder: "content/products"
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    summary: "{{name}} — {{category}} — KSh {{price}}"
+    sortable_fields: ["name", "category", "price", "availability"]
+    fields:
+      - { label: "Product Name", name: "name", widget: "string" }
+      - { label: "URL Slug", name: "slug", widget: "string", hint: "Used in the product web address, e.g. 5000l-water-tank. Lowercase, no spaces." }
+      - { label: "SKU / Product ID", name: "sku", widget: "string", required: false }
+      - label: "Category"
+        name: "category"
+        widget: "relation"
+        collection: "categories"
+        search_fields: ["name"]
+        value_field: "{{slug}}"
+        display_fields: ["name"]
+      - { label: "Subcategory", name: "subcategory", widget: "string", required: false }
+      - { label: "Brand", name: "brand", widget: "string", required: false }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Current Price (KSh)", name: "price", widget: "number", required: false, value_type: "float", hint: "The price customers pay right now." }
+      - { label: "Previous Price (KSh)", name: "previousPrice", widget: "number", required: false, value_type: "float", hint: "Fill this in ONLY when the item is on discount — set it to the old, higher price. The site automatically shows a strikethrough price and a % Off badge. Leave empty for no discount." }
+      - label: "Price Unit"
+        name: "priceUnit"
+        widget: "select"
+        options: ["per piece", "per sheet", "per metre", "per kilogram", "per bag", "per tank", "per roll", "per unit", "per length", "Contact for price"]
+        required: false
+      - { label: "Currency", name: "currency", widget: "hidden", default: "KES" }
+      - label: "Main Image"
+        name: "mainImage"
+        widget: "image"
+        media_folder: "/public/images/products/{{slug}}"
+        public_folder: "/images/products/{{slug}}"
+        hint: "The primary photo shown on product cards. Use a real photo of the actual product — not a stock or AI-generated image."
+      - label: "Additional Images"
+        name: "images"
+        widget: "list"
+        field: { label: "Image", name: "image", widget: "image", media_folder: "/public/images/products/{{slug}}", public_folder: "/images/products/{{slug}}" }
+        required: false
+        hint: "Click '+ Add Image' for each extra photo — front, side, back, packaging, etc. No limit on how many."
+      - { label: "Image Alt Text", name: "imageAlt", widget: "string", required: false }
+      - label: "Availability"
+        name: "availability"
+        widget: "select"
+        options:
+          - { label: "Available", value: "available" }
+          - { label: "Out of Stock", value: "out_of_stock" }
+          - { label: "Sold", value: "sold" }
+        default: "available"
+      - { label: "Hide from website", name: "hidden", widget: "boolean", default: false, hint: "Turn on to hide this product from customers without deleting it." }
+      - { label: "Featured Product", name: "featured", widget: "boolean", default: false }
+      - { label: "Delivery Available", name: "deliveryAvailable", widget: "boolean", default: true }
+      - label: "Specifications"
+        name: "attributes"
+        widget: "list"
+        required: false
+        field:
+          widget: "object"
+          fields:
+            - { label: "Label", name: "label", widget: "string" }
+            - { label: "Value", name: "value", widget: "string" }
+      - { label: "SEO Title", name: "seoTitle", widget: "string", required: false }
+      - { label: "SEO Description", name: "seoDescription", widget: "text", required: false }
+      - { label: "Demonstration Product", name: "demo", widget: "boolean", default: false, hint: "Turn off once this is a real product, not sample data." }
+
+  - name: "categories"
+    label: "Categories"
+    label_singular: "Category"
+    folder: "content/categories"
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    summary: "{{name}}"
+    sortable_fields: ["order", "name"]
+    fields:
+      - { label: "Category Name", name: "name", widget: "string" }
+      - { label: "URL Slug", name: "slug", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - label: "Category Image"
+        name: "image"
+        widget: "image"
+        media_folder: "/public/images/categories"
+        public_folder: "/images/categories"
+      - { label: "Show on website", name: "visible", widget: "boolean", default: true }
+      - { label: "Display Order", name: "order", widget: "number", value_type: "int", default: 1 }
+
+  - name: "settings"
+    label: "Site Settings"
+    editor: { preview: false }
+    files:
+      - name: "site"
+        label: "Business Information"
+        file: "content/settings/site.json"
+        fields:
+          - { label: "Business Name", name: "businessName", widget: "string" }
+          - { label: "Business Description", name: "businessDescription", widget: "string" }
+          - { label: "Phone", name: "phone", widget: "string" }
+          - { label: "WhatsApp Number", name: "whatsapp", widget: "string" }
+          - { label: "Email", name: "email", widget: "string", required: false }
+          - { label: "Location", name: "location", widget: "string", required: false }
+          - { label: "Opening Hours", name: "openingHours", widget: "string", required: false }
+          - { label: "Service Areas", name: "serviceAreas", widget: "string", required: false }
+          - { label: "Delivery Information", name: "deliveryInfo", widget: "text", required: false }
+          - label: "Social Media"
+            name: "social"
+            widget: "object"
+            fields:
+              - { label: "Facebook URL", name: "facebook", widget: "string", required: false }
+              - { label: "Instagram URL", name: "instagram", widget: "string", required: false }
+              - { label: "TikTok URL", name: "tiktok", widget: "string", required: false }
+              - { label: "YouTube URL", name: "youtube", widget: "string", required: false }
+
+  - name: "pages"
+    label: "Pages"
+    editor: { preview: false }
+    files:
+      - name: "about"
+        label: "About Us"
+        file: "content/pages/about.json"
+        fields:
+          - { label: "Who We Are", name: "whoWeAre", widget: "text" }
+          - { label: "What We Supply", name: "whatWeSupply", widget: "text" }
+          - { label: "Why Choose Us", name: "whyChooseUs", widget: "text" }
+          - { label: "Mission", name: "mission", widget: "text" }
+          - { label: "Vision", name: "vision", widget: "text" }
+      - name: "privacy-policy"
+        label: "Privacy Policy"
+        file: "content/pages/privacy-policy.json"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Last Updated", name: "updated", widget: "string", required: false }
+          - { label: "Body", name: "body", widget: "text" }
+      - name: "terms"
+        label: "Terms & Conditions"
+        file: "content/pages/terms.json"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Last Updated", name: "updated", widget: "string", required: false }
+          - { label: "Body", name: "body", widget: "text" }
+      - name: "delivery-policy"
+        label: "Delivery Policy"
+        file: "content/pages/delivery-policy.json"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Last Updated", name: "updated", widget: "string", required: false }
+          - { label: "Body", name: "body", widget: "text" }
+      - name: "returns-policy"
+        label: "Returns & Refunds Policy"
+        file: "content/pages/returns-policy.json"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Last Updated", name: "updated", widget: "string", required: false }
+          - { label: "Body", name: "body", widget: "text" }

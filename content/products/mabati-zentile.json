@@ -1,0 +1,40 @@
+{
+  "name": "Zentile Mabati",
+  "slug": "mabati-zentile",
+  "sku": "MAB-ZEN-01",
+  "category": "mabati",
+  "subcategory": "Tile Profile",
+  "brand": "PLACEHOLDER",
+  "description": "Zentile Mabati \u2014 confirm current stock, length options and colour availability with us.",
+  "price": 490,
+  "previousPrice": null,
+  "priceUnit": "per metre",
+  "currency": "KES",
+  "mainImage": "/images/products/mabati/zentile-grey-1.jpg",
+  "images": [
+    "/images/products/mabati/zentile-grey-1.jpg",
+    "/images/products/mabati/zentile-black-1.jpg"
+  ],
+  "imageAlt": "Zentile Mabati",
+  "availability": "available",
+  "hidden": false,
+  "featured": true,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Profile",
+      "value": "Zentile"
+    },
+    {
+      "label": "Colour",
+      "value": "Grey / Black"
+    },
+    {
+      "label": "Material",
+      "value": "Coated steel"
+    }
+  ],
+  "seoTitle": "Zentile Mabati | Jumbo Sales",
+  "seoDescription": "Zentile Mabati from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Reinforcement Bar D8 (8mm)",
+  "slug": "steel-rebar-d8",
+  "sku": "STL-REB-8",
+  "category": "steel",
+  "subcategory": "Reinforcement Bars",
+  "brand": "PLACEHOLDER",
+  "description": "D8 (8mm) reinforcement bar (rebar) for concrete construction. Standard length; confirm exact length in stock with us.",
+  "price": 450,
+  "previousPrice": null,
+  "priceUnit": "per piece",
+  "currency": "KES",
+  "mainImage": "/images/products/steel/reinforcement-bars-1.jpg",
+  "images": [
+    "/images/products/steel/reinforcement-bars-1.jpg",
+    "/images/products/steel/reinforcement-bars-2.jpg"
+  ],
+  "imageAlt": "Steel reinforcement bars, D8",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Type",
+      "value": "Reinforcement Bar"
+    },
+    {
+      "label": "Diameter",
+      "value": "8mm"
+    },
+    {
+      "label": "Grade",
+      "value": "PLACEHOLDER"
+    }
+  ],
+  "seoTitle": "D8 Reinforcement Bar | Jumbo Sales",
+  "seoDescription": "D8 steel reinforcement bars from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

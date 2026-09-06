@@ -1,0 +1,43 @@
+{
+  "name": "Versatile Mabati Gauge 28",
+  "slug": "mabati-versatile",
+  "sku": "MAB-VER-28",
+  "category": "mabati",
+  "subcategory": "Tile Profile",
+  "brand": "PLACEHOLDER",
+  "description": "Versatile Mabati Gauge 28 \u2014 confirm current stock, length options and colour availability with us.",
+  "price": 550,
+  "previousPrice": null,
+  "priceUnit": "per metre",
+  "currency": "KES",
+  "mainImage": "/images/products/mabati/versatile-gauge28-1.jpg",
+  "images": [
+    "/images/products/mabati/versatile-gauge28-1.jpg"
+  ],
+  "imageAlt": "Versatile Mabati Gauge 28",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Profile",
+      "value": "Versatile"
+    },
+    {
+      "label": "Gauge",
+      "value": "28"
+    },
+    {
+      "label": "Colour",
+      "value": "Black"
+    },
+    {
+      "label": "Material",
+      "value": "Coated steel"
+    }
+  ],
+  "seoTitle": "Versatile Mabati Gauge 28 | Jumbo Sales",
+  "seoDescription": "Versatile Mabati Gauge 28 from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}
