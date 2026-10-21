@@ -1,0 +1,31 @@
+{
+  "name": "Ceramic Floor Tile 40x40cm (Standard)",
+  "slug": "tiles-40x40-standard",
+  "sku": "TILES-40X40-STANDA",
+  "category": "ceramic-tiles",
+  "subcategory": "Ceramic Tiles",
+  "brand": "",
+  "description": "Ceramic Floor Tile 40x40cm (Standard). Sold per box.",
+  "price": 1750,
+  "previousPrice": null,
+  "priceUnit": "per box (1.92 m\u00b2)",
+  "currency": "KES",
+  "mainImage": "/images/products/tiles/tiles-40x40-standard.jpg",
+  "images": [
+    "/images/products/tiles/tiles-40x40-standard.jpg"
+  ],
+  "imageAlt": "Ceramic Floor Tile 40x40cm (Standard)",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Size",
+      "value": "40x40cm"
+    }
+  ],
+  "seoTitle": "Ceramic Floor Tile 40x40cm (Standard) | Jumbo Sales",
+  "seoDescription": "Ceramic Floor Tile 40x40cm (Standard) at KSh 1,750 per box (1.92 m\u00b2) from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

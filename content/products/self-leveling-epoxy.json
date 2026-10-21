@@ -1,0 +1,31 @@
+{
+  "name": "Self Leveling Epoxy",
+  "slug": "self-leveling-epoxy",
+  "sku": "SELF-LEVELING-EPOX",
+  "category": "epoxy",
+  "subcategory": "Epoxy Coating",
+  "brand": "",
+  "description": "Self-leveling epoxy flooring for a smooth, seamless finish, priced per square metre.",
+  "price": 3200,
+  "previousPrice": null,
+  "priceUnit": "per m\u00b2",
+  "currency": "KES",
+  "mainImage": "/images/products/epoxy/self-leveling-epoxy.jpg",
+  "images": [
+    "/images/products/epoxy/self-leveling-epoxy.jpg"
+  ],
+  "imageAlt": "Self Leveling Epoxy",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Type",
+      "value": "Self leveling"
+    }
+  ],
+  "seoTitle": "Self Leveling Epoxy | Jumbo Sales",
+  "seoDescription": "Self Leveling Epoxy at KSh 3,200 per m\u00b2 from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

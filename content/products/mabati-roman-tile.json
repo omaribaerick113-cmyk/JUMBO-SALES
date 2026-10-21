@@ -1,0 +1,39 @@
+{
+  "name": "Roman Tile Mabati",
+  "slug": "mabati-roman-tile",
+  "sku": "MAB-ROM-01",
+  "category": "mabati",
+  "subcategory": "Tile Profile",
+  "brand": "PLACEHOLDER",
+  "description": "Roman Tile Mabati \u2014 confirm current stock, length options and colour availability with us.",
+  "price": 500,
+  "previousPrice": null,
+  "priceUnit": "per metre",
+  "currency": "KES",
+  "mainImage": "/images/products/mabati/red-roman-tile-1.jpg",
+  "images": [
+    "/images/products/mabati/red-roman-tile-1.jpg"
+  ],
+  "imageAlt": "Roman Tile Mabati",
+  "availability": "available",
+  "hidden": false,
+  "featured": true,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Profile",
+      "value": "Roman Tile"
+    },
+    {
+      "label": "Colour",
+      "value": "Red"
+    },
+    {
+      "label": "Material",
+      "value": "Coated steel"
+    }
+  ],
+  "seoTitle": "Roman Tile Mabati | Jumbo Sales",
+  "seoDescription": "Roman Tile Mabati from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

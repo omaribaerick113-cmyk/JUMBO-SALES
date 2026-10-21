@@ -1,0 +1,35 @@
+{
+  "name": "Box Profile Mabati Gauge 28",
+  "slug": "mabati-box-profile-g28",
+  "sku": "MAB-BOX-28",
+  "category": "mabati",
+  "subcategory": "Box Profile",
+  "brand": "PLACEHOLDER",
+  "description": "Box Profile Mabati Gauge 28 \u2014 confirm current stock, length options and colour availability with us.",
+  "price": 580,
+  "previousPrice": null,
+  "priceUnit": "per metre",
+  "currency": "KES",
+  "mainImage": "/images/products/mabati/box-profile-teal-1.jpg",
+  "images": [
+    "/images/products/mabati/box-profile-teal-1.jpg"
+  ],
+  "imageAlt": "Box Profile Mabati Gauge 28",
+  "availability": "available",
+  "hidden": false,
+  "featured": true,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Profile",
+      "value": "Box Profile"
+    },
+    {
+      "label": "Gauge",
+      "value": "28"
+    }
+  ],
+  "seoTitle": "Box Profile Mabati Gauge 28 | Jumbo Sales",
+  "seoDescription": "Box Profile Mabati Gauge 28 from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

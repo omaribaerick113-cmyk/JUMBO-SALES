@@ -1,0 +1,43 @@
+{
+  "name": "10,000L Water Tank",
+  "slug": "10000l-water-tank",
+  "sku": "TANK-10000",
+  "category": "water-tanks",
+  "subcategory": "Vertical Tank",
+  "brand": "Jumbo Tank",
+  "description": "10,000 litre Jumbo Tank water storage tank with double-layer construction and 20-year warranty, for larger households, farms and small sites.",
+  "price": 47000,
+  "previousPrice": null,
+  "priceUnit": "per tank",
+  "currency": "KES",
+  "mainImage": "/images/products/water-tanks/tembo-tank-1.jpg",
+  "images": [
+    "/images/products/water-tanks/tembo-tank-1.jpg"
+  ],
+  "imageAlt": "Tembo Tank water tanks, double layer",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Capacity",
+      "value": "10,000L"
+    },
+    {
+      "label": "Brand",
+      "value": "Jumbo Tank"
+    },
+    {
+      "label": "Material",
+      "value": "Double-layer polyethylene"
+    },
+    {
+      "label": "Warranty",
+      "value": "20 years"
+    }
+  ],
+  "seoTitle": "10,000L Water Tank | Jumbo Sales",
+  "seoDescription": "10,000 litre Tembo water tanks from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

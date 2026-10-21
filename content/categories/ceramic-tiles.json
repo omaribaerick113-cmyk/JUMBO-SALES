@@ -1,0 +1,8 @@
+{
+  "name": "Ceramic Floor Tiles",
+  "slug": "ceramic-tiles",
+  "description": "Ceramic floor and wall tiles in bathroom, standard and economy sizes.",
+  "image": "/images/products/tiles/tiles-40x40-standard.jpg",
+  "visible": true,
+  "order": 9
+}

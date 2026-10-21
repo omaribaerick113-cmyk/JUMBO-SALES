@@ -1,0 +1,35 @@
+{
+  "name": "Square Hollow Section 20x20x1.5mm",
+  "slug": "steel-shs-20x20",
+  "sku": "STL-SHS-2020",
+  "category": "steel",
+  "subcategory": "Hollow Sections",
+  "brand": "PLACEHOLDER",
+  "description": "Confirm exact current price and stock with us \u2014 this listing shows a typical market estimate for this size.",
+  "price": 775,
+  "previousPrice": null,
+  "priceUnit": "per length",
+  "currency": "KES",
+  "mainImage": "/images/products/steel/hollow-sections-3.jpg",
+  "images": [
+    "/images/products/steel/hollow-sections-3.jpg"
+  ],
+  "imageAlt": "Square Hollow Section 20x20x1.5mm",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Type",
+      "value": "Square Hollow Section"
+    },
+    {
+      "label": "Size",
+      "value": "20 x 20 x 1.5mm"
+    }
+  ],
+  "seoTitle": "Square Hollow Section 20x20x1.5mm | Jumbo Sales",
+  "seoDescription": "Square Hollow Section 20x20x1.5mm from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

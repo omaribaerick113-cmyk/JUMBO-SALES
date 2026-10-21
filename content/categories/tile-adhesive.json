@@ -1,0 +1,8 @@
+{
+  "name": "Tile Adhesive Cement",
+  "slug": "tile-adhesive",
+  "description": "Ceramic tile adhesive cement in 25kg bags.",
+  "image": "/images/products/adhesive/izomic-tile-adhesive.jpg",
+  "visible": true,
+  "order": 11
+}

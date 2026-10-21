@@ -1,0 +1,31 @@
+{
+  "name": "HDPE Pipe 16mm",
+  "slug": "hdpe-pipe-16mm",
+  "sku": "HDPE-PIPE-16MM",
+  "category": "hdpe-pipes",
+  "subcategory": "HDPE Pipes",
+  "brand": "",
+  "description": "HDPE water pipe, 16mm diameter. Confirm length per roll with us.",
+  "price": 1700,
+  "previousPrice": null,
+  "priceUnit": "per roll",
+  "currency": "KES",
+  "mainImage": "/images/products/pipes/hdpe-pipe-16mm.jpg",
+  "images": [
+    "/images/products/pipes/hdpe-pipe-16mm.jpg"
+  ],
+  "imageAlt": "HDPE Pipe 16mm",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Diameter",
+      "value": "16mm"
+    }
+  ],
+  "seoTitle": "HDPE Pipe 16mm | Jumbo Sales",
+  "seoDescription": "HDPE Pipe 16mm at KSh 1,700 per roll from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

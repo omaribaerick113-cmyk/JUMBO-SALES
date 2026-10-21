@@ -1,0 +1,35 @@
+{
+  "name": "Crown Silk Vinyl Emulsion 4 Litres",
+  "slug": "crown-vinyl-silk-4l",
+  "sku": "CROWN-VINYL-SILK-4",
+  "category": "emulsion-paint",
+  "subcategory": "Emulsion Paint",
+  "brand": "Crown",
+  "description": "Crown Silk Vinyl Emulsion 4 Litres for interior walls and ceilings. Ask us about available colours.",
+  "price": 2700,
+  "previousPrice": null,
+  "priceUnit": "per 4L",
+  "currency": "KES",
+  "mainImage": "/images/products/paint/silk.jpg",
+  "images": [
+    "/images/products/paint/silk.jpg"
+  ],
+  "imageAlt": "Crown Silk Vinyl Emulsion 4 Litres",
+  "availability": "available",
+  "hidden": false,
+  "featured": true,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Brand",
+      "value": "Crown"
+    },
+    {
+      "label": "Pack size",
+      "value": "4 litres"
+    }
+  ],
+  "seoTitle": "Crown Silk Vinyl Emulsion 4 Litres | Jumbo Sales",
+  "seoDescription": "Crown Silk Vinyl Emulsion 4 Litres at KSh 2,700 per 4L from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

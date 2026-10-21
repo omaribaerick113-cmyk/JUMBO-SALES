@@ -1,0 +1,31 @@
+{
+  "name": "HDPE Pipe 63mm (2\")",
+  "slug": "hdpe-pipe-63mm",
+  "sku": "HDPE-PIPE-63MM",
+  "category": "hdpe-pipes",
+  "subcategory": "HDPE Pipes",
+  "brand": "",
+  "description": "HDPE water pipe, 63mm (2\") diameter. Confirm length per roll with us.",
+  "price": 12500,
+  "previousPrice": null,
+  "priceUnit": "per roll",
+  "currency": "KES",
+  "mainImage": "/images/products/pipes/hdpe-pipe-63mm.jpg",
+  "images": [
+    "/images/products/pipes/hdpe-pipe-63mm.jpg"
+  ],
+  "imageAlt": "HDPE Pipe 63mm (2\")",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Diameter",
+      "value": "63mm"
+    }
+  ],
+  "seoTitle": "HDPE Pipe 63mm (2\") | Jumbo Sales",
+  "seoDescription": "HDPE Pipe 63mm (2\") at KSh 12,500 per roll from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

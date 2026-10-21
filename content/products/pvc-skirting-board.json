@@ -1,0 +1,26 @@
+{
+  "name": "PVC Skirting Board",
+  "slug": "pvc-skirting-board",
+  "sku": "PVC-SKIRTING-BOARD",
+  "category": "tile-skirting",
+  "subcategory": "Skirting",
+  "brand": "",
+  "description": "PVC skirting board, sold per length.",
+  "price": 650,
+  "previousPrice": null,
+  "priceUnit": "per piece",
+  "currency": "KES",
+  "mainImage": "/images/products/skirting/pvc-skirting-board.jpg",
+  "images": [
+    "/images/products/skirting/pvc-skirting-board.jpg"
+  ],
+  "imageAlt": "PVC Skirting Board",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [],
+  "seoTitle": "PVC Skirting Board | Jumbo Sales",
+  "seoDescription": "PVC Skirting Board at KSh 650 per piece from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

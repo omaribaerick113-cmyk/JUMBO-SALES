@@ -1,0 +1,31 @@
+{
+  "name": "HDPE Pipe 110mm (4\")",
+  "slug": "hdpe-pipe-110mm",
+  "sku": "HDPE-PIPE-110MM",
+  "category": "hdpe-pipes",
+  "subcategory": "HDPE Pipes",
+  "brand": "",
+  "description": "HDPE water pipe, 110mm (4\") diameter. Confirm length per roll with us.",
+  "price": 40000,
+  "previousPrice": null,
+  "priceUnit": "per roll",
+  "currency": "KES",
+  "mainImage": "/images/products/pipes/hdpe-pipe-110mm.jpg",
+  "images": [
+    "/images/products/pipes/hdpe-pipe-110mm.jpg"
+  ],
+  "imageAlt": "HDPE Pipe 110mm (4\")",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Diameter",
+      "value": "110mm"
+    }
+  ],
+  "seoTitle": "HDPE Pipe 110mm (4\") | Jumbo Sales",
+  "seoDescription": "HDPE Pipe 110mm (4\") at KSh 40,000 per roll from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-display: 'Arial Black', 'Helvetica Neue', Arial, sans-serif;
+  --font-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+html { scroll-behavior: smooth; }
+body { background-color: #f6f4ef; color: #1c1a15; }
+
+.container-x { @apply mx-auto w-full max-w-6xl px-4 sm:px-6 lg:px-8; }
+.btn { @apply inline-flex items-center justify-center gap-2 rounded-md px-5 py-3 text-sm font-bold tracking-wide transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2; }
+.btn-primary { @apply btn bg-rust-500 text-ink-950 hover:bg-rust-400 focus-visible:outline-rust-500; }
+.btn-whatsapp { @apply btn bg-[#25D366] text-ink-950 hover:brightness-95 focus-visible:outline-[#25D366]; }
+.btn-outline { @apply btn border-2 border-steel-100/30 text-steel-100 hover:border-rust-400 hover:text-rust-400 focus-visible:outline-steel-100; }
+.badge { @apply inline-flex items-center rounded-sm px-2 py-1 text-xs font-bold uppercase tracking-wide; }

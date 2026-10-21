@@ -1,0 +1,8 @@
+{
+  "name": "Emulsion Paint",
+  "slug": "emulsion-paint",
+  "description": "Crown, DuraCoat and budget emulsion paints in 1L, 4L and 20L.",
+  "image": "/images/products/paint/covermatt4.jpg",
+  "visible": true,
+  "order": 6
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Fire-Rated Gypsum Board (12.5mm)",
+  "slug": "fire-rated-gypsum-board",
+  "sku": "FIRE-RATED-GYPSUM-",
+  "category": "gypsum",
+  "subcategory": "Gypsum Board",
+  "brand": "",
+  "description": "Fire-related gypsum board, 12.5mm thickness.",
+  "price": 1600,
+  "previousPrice": null,
+  "priceUnit": "per piece",
+  "currency": "KES",
+  "mainImage": "/images/products/gypsum/fire.jpg",
+  "images": [
+    "/images/products/gypsum/fire.jpg"
+  ],
+  "imageAlt": "Fire-Rated Gypsum Board (12.5mm)",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Brand",
+      "value": "Generic"
+    }
+  ],
+  "seoTitle": "Fire-Rated Gypsum Board (12.5mm) | Jumbo Sales",
+  "seoDescription": "Fire-Rated Gypsum Board (12.5mm) at KSh 1,600 per piece from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

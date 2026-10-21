@@ -1,0 +1,36 @@
+{
+  "name": "Crown Covermatt Emulsion 4 Litres",
+  "slug": "crown-covermatt-4l",
+  "sku": "CROWN-COVERMATT-4L",
+  "category": "emulsion-paint",
+  "subcategory": "Emulsion Paint",
+  "brand": "Crown",
+  "description": "Crown Covermatt Emulsion 4 Litres for interior walls and ceilings. Ask us about available colours.",
+  "price": 1450,
+  "previousPrice": null,
+  "priceUnit": "per 4L",
+  "currency": "KES",
+  "mainImage": "/images/products/paint/covermatt4.jpg",
+  "images": [
+    "/images/products/paint/covermatt4.jpg",
+    "/images/products/paint/covermattplus.jpg"
+  ],
+  "imageAlt": "Crown Covermatt Emulsion 4 Litres",
+  "availability": "available",
+  "hidden": false,
+  "featured": true,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Brand",
+      "value": "Crown"
+    },
+    {
+      "label": "Pack size",
+      "value": "4 litres"
+    }
+  ],
+  "seoTitle": "Crown Covermatt Emulsion 4 Litres | Jumbo Sales",
+  "seoDescription": "Crown Covermatt Emulsion 4 Litres at KSh 1,450 per 4L from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

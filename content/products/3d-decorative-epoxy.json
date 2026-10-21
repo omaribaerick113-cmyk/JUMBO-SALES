@@ -1,0 +1,31 @@
+{
+  "name": "3D / Decorative Epoxy",
+  "slug": "3d-decorative-epoxy",
+  "sku": "3D-DECORATIVE-EPOX",
+  "category": "epoxy",
+  "subcategory": "Epoxy Coating",
+  "brand": "",
+  "description": "3D and decorative epoxy flooring, priced per square metre.",
+  "price": 4000,
+  "previousPrice": null,
+  "priceUnit": "per m\u00b2",
+  "currency": "KES",
+  "mainImage": "/images/products/epoxy/3d-decorative-epoxy.jpg",
+  "images": [
+    "/images/products/epoxy/3d-decorative-epoxy.jpg"
+  ],
+  "imageAlt": "3D / Decorative Epoxy",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Type",
+      "value": "3D / Decorative"
+    }
+  ],
+  "seoTitle": "3D / Decorative Epoxy | Jumbo Sales",
+  "seoDescription": "3D / Decorative Epoxy at KSh 4,000 per m\u00b2 from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

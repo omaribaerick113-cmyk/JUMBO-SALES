@@ -1,0 +1,6 @@
+{
+  "name": "jumbo-sales-cms-oauth-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal stateless GitHub OAuth relay so the Jumbo Sales admin (Decap CMS) can log in securely. Holds no database and no business logic."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Water Tanks",
+  "slug": "water-tanks",
+  "description": "Water storage tanks in a range of capacities for homes, farms and sites.",
+  "image": "/images/categories/water-tanks.jpg",
+  "visible": true,
+  "order": 2
+}

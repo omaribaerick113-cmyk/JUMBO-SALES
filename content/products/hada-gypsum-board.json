@@ -1,0 +1,32 @@
+{
+  "name": "Hada Gypsum Board (9-12mm)",
+  "slug": "hada-gypsum-board",
+  "sku": "HADA-GYPSUM-BOARD",
+  "category": "gypsum",
+  "subcategory": "Gypsum Board",
+  "brand": "Hada",
+  "description": "Standard/regular gypsum board, 9-12mm, for ceilings and partitions.",
+  "price": 720,
+  "previousPrice": null,
+  "priceUnit": "per piece",
+  "currency": "KES",
+  "mainImage": "/images/products/gypsum/hada.jpg",
+  "images": [
+    "/images/products/gypsum/hada.jpg",
+    "/images/products/gypsum/hada2.jpg"
+  ],
+  "imageAlt": "Hada Gypsum Board (9-12mm)",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Brand",
+      "value": "Hada"
+    }
+  ],
+  "seoTitle": "Hada Gypsum Board (9-12mm) | Jumbo Sales",
+  "seoDescription": "Hada Gypsum Board (9-12mm) at KSh 720 per piece from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

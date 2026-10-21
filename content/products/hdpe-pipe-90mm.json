@@ -1,0 +1,31 @@
+{
+  "name": "HDPE Pipe 90mm (3\")",
+  "slug": "hdpe-pipe-90mm",
+  "sku": "HDPE-PIPE-90MM",
+  "category": "hdpe-pipes",
+  "subcategory": "HDPE Pipes",
+  "brand": "",
+  "description": "HDPE water pipe, 90mm (3\") diameter. Confirm length per roll with us.",
+  "price": 26000,
+  "previousPrice": null,
+  "priceUnit": "per roll",
+  "currency": "KES",
+  "mainImage": "/images/products/pipes/hdpe-pipe-90mm.jpg",
+  "images": [
+    "/images/products/pipes/hdpe-pipe-90mm.jpg"
+  ],
+  "imageAlt": "HDPE Pipe 90mm (3\")",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Diameter",
+      "value": "90mm"
+    }
+  ],
+  "seoTitle": "HDPE Pipe 90mm (3\") | Jumbo Sales",
+  "seoDescription": "HDPE Pipe 90mm (3\") at KSh 26,000 per roll from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

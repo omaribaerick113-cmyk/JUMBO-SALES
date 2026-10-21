@@ -1,0 +1,36 @@
+{
+  "name": "Angle Bar 1.5\" x 1.5\" x 1/4\"",
+  "slug": "steel-angle-38mm",
+  "sku": "STL-ANG-38",
+  "category": "steel",
+  "subcategory": "Angle Bars",
+  "brand": "PLACEHOLDER",
+  "description": "Confirm exact current price and stock with us \u2014 this listing shows a typical market estimate for this size.",
+  "price": 3200,
+  "previousPrice": null,
+  "priceUnit": "per piece",
+  "currency": "KES",
+  "mainImage": "/images/products/steel/angle-bars-oxidized-1.jpg",
+  "images": [
+    "/images/products/steel/angle-bars-oxidized-1.jpg",
+    "/images/products/steel/angle-bars-mixed-1.jpg"
+  ],
+  "imageAlt": "Angle Bar 1.5\" x 1.5\" x 1/4\"",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Type",
+      "value": "Angle Bar"
+    },
+    {
+      "label": "Size",
+      "value": "1.5\" x 1.5\" x 1/4\""
+    }
+  ],
+  "seoTitle": "Angle Bar 1.5\" x 1.5\" x 1/4\" | Jumbo Sales",
+  "seoDescription": "Angle Bar 1.5\" x 1.5\" x 1/4\" from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Budget Emulsion Paint 1 Litre",
+  "slug": "budget-emulsion-1l",
+  "sku": "BUDGET-EMULSION-1L",
+  "category": "emulsion-paint",
+  "subcategory": "Emulsion Paint",
+  "brand": "Plascon",
+  "description": "Budget Emulsion Paint 1 Litre for interior walls and ceilings. Ask us about available colours.",
+  "price": 280,
+  "previousPrice": null,
+  "priceUnit": "per 1L",
+  "currency": "KES",
+  "mainImage": "/images/products/paint/budget.jpg",
+  "images": [
+    "/images/products/paint/budget.jpg"
+  ],
+  "imageAlt": "Budget Emulsion Paint 1 Litre",
+  "availability": "available",
+  "hidden": false,
+  "featured": true,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Brand",
+      "value": "Plascon"
+    },
+    {
+      "label": "Pack size",
+      "value": "1 litre"
+    }
+  ],
+  "seoTitle": "Budget Emulsion Paint 1 Litre | Jumbo Sales",
+  "seoDescription": "Budget Emulsion Paint 1 Litre at KSh 280 per 1L from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

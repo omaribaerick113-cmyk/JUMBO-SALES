@@ -1,0 +1,39 @@
+{
+  "name": "Euro Tile / Zee Tile Mabati",
+  "slug": "mabati-euro-tile",
+  "sku": "MAB-EUR-01",
+  "category": "mabati",
+  "subcategory": "Tile Profile",
+  "brand": "PLACEHOLDER",
+  "description": "Euro Tile / Zee Tile Mabati \u2014 confirm current stock, length options and colour availability with us.",
+  "price": 600,
+  "previousPrice": null,
+  "priceUnit": "per metre",
+  "currency": "KES",
+  "mainImage": "/images/products/mabati/euro-tile-1.jpg",
+  "images": [
+    "/images/products/mabati/euro-tile-1.jpg"
+  ],
+  "imageAlt": "Euro Tile / Zee Tile Mabati",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Profile",
+      "value": "Euro Tile / Zee Tile"
+    },
+    {
+      "label": "Colour",
+      "value": "Charcoal grey"
+    },
+    {
+      "label": "Material",
+      "value": "Coated steel"
+    }
+  ],
+  "seoTitle": "Euro Tile / Zee Tile Mabati | Jumbo Sales",
+  "seoDescription": "Euro Tile / Zee Tile Mabati from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

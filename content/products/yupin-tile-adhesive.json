@@ -1,0 +1,31 @@
+{
+  "name": "Yupin Ceramic Tile Adhesive (25kg)",
+  "slug": "yupin-tile-adhesive",
+  "sku": "YUPIN-TILE-ADHESIV",
+  "category": "tile-adhesive",
+  "subcategory": "Tile Adhesive",
+  "brand": "",
+  "description": "Yupin Ceramic Tile Adhesive (25kg) for fixing ceramic tiles.",
+  "price": 550,
+  "previousPrice": null,
+  "priceUnit": "per 25kg bag",
+  "currency": "KES",
+  "mainImage": "/images/products/adhesive/yupin-tile-adhesive.jpg",
+  "images": [
+    "/images/products/adhesive/yupin-tile-adhesive.jpg"
+  ],
+  "imageAlt": "Yupin Ceramic Tile Adhesive (25kg)",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Weight",
+      "value": "25kg"
+    }
+  ],
+  "seoTitle": "Yupin Ceramic Tile Adhesive (25kg) | Jumbo Sales",
+  "seoDescription": "Yupin Ceramic Tile Adhesive (25kg) at KSh 550 per 25kg bag from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

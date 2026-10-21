@@ -1,0 +1,35 @@
+{
+  "name": "Rai Cement DUMU 32.5 (50kg)",
+  "slug": "rai-cement-50kg",
+  "sku": "RAI-CEMENT-50KG",
+  "category": "cement",
+  "subcategory": "Cement",
+  "brand": "Rai",
+  "description": "Rai Cement DUMU 32.5, 50kg bag. Quality-assured general purpose cement.",
+  "price": 650,
+  "previousPrice": null,
+  "priceUnit": "per bag",
+  "currency": "KES",
+  "mainImage": "/images/products/cement/rai.jpg",
+  "images": [
+    "/images/products/cement/rai.jpg"
+  ],
+  "imageAlt": "Rai Cement DUMU 32.5 (50kg)",
+  "availability": "available",
+  "hidden": false,
+  "featured": true,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Grade",
+      "value": "32.5"
+    },
+    {
+      "label": "Weight",
+      "value": "50kg"
+    }
+  ],
+  "seoTitle": "Rai Cement DUMU 32.5 (50kg) | Jumbo Sales",
+  "seoDescription": "Rai Cement DUMU 32.5 (50kg) at KSh 650 per bag from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Circular Hollow Section 42x1.5mm",
+  "slug": "steel-chs-42",
+  "sku": "STL-CHS-42",
+  "category": "steel",
+  "subcategory": "Hollow Sections",
+  "brand": "PLACEHOLDER",
+  "description": "Confirm exact current price and stock with us \u2014 this listing shows a typical market estimate for this size.",
+  "price": 1600,
+  "previousPrice": null,
+  "priceUnit": "per length",
+  "currency": "KES",
+  "mainImage": "/images/products/steel/hollow-sections-2.jpg",
+  "images": [
+    "/images/products/steel/hollow-sections-2.jpg"
+  ],
+  "imageAlt": "Circular Hollow Section 42x1.5mm",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Type",
+      "value": "Circular Hollow Section"
+    },
+    {
+      "label": "Size",
+      "value": "42mm x 1.5mm"
+    }
+  ],
+  "seoTitle": "Circular Hollow Section 42x1.5mm | Jumbo Sales",
+  "seoDescription": "Circular Hollow Section 42x1.5mm from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

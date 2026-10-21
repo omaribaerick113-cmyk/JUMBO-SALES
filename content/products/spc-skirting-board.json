@@ -1,0 +1,26 @@
+{
+  "name": "SPC Skirting Board (2.4m)",
+  "slug": "spc-skirting-board",
+  "sku": "SPC-SKIRTING-BOARD",
+  "category": "tile-skirting",
+  "subcategory": "Skirting",
+  "brand": "",
+  "description": "SPC skirting board, 2.4m length.",
+  "price": 1100,
+  "previousPrice": null,
+  "priceUnit": "per 2.4m",
+  "currency": "KES",
+  "mainImage": "/images/products/skirting/spc-skirting-board.jpg",
+  "images": [
+    "/images/products/skirting/spc-skirting-board.jpg"
+  ],
+  "imageAlt": "SPC Skirting Board (2.4m)",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [],
+  "seoTitle": "SPC Skirting Board (2.4m) | Jumbo Sales",
+  "seoDescription": "SPC Skirting Board (2.4m) at KSh 1,100 per 2.4m from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

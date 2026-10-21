@@ -1,0 +1,8 @@
+{
+  "name": "Tile Skirting",
+  "slug": "tile-skirting",
+  "description": "PVC, SPC and polyurethane skirting boards for a neat floor finish.",
+  "image": "/images/products/skirting/pvc-skirting-board.jpg",
+  "visible": true,
+  "order": 10
+}

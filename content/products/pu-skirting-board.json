@@ -1,0 +1,26 @@
+{
+  "name": "Polyurethane (PU) Skirting Board",
+  "slug": "pu-skirting-board",
+  "sku": "PU-SKIRTING-BOARD",
+  "category": "tile-skirting",
+  "subcategory": "Skirting",
+  "brand": "",
+  "description": "Polyurethane skirting board. Price depends on height and design.",
+  "price": 850,
+  "previousPrice": null,
+  "priceUnit": "per piece",
+  "currency": "KES",
+  "mainImage": "/images/products/skirting/pu-skirting-board.jpg",
+  "images": [
+    "/images/products/skirting/pu-skirting-board.jpg"
+  ],
+  "imageAlt": "Polyurethane (PU) Skirting Board",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [],
+  "seoTitle": "Polyurethane (PU) Skirting Board | Jumbo Sales",
+  "seoDescription": "Polyurethane (PU) Skirting Board at KSh 850 per piece from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

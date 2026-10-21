@@ -1,0 +1,35 @@
+{
+  "name": "Crown Vinyl Matt Emulsion 1 Litre",
+  "slug": "crown-vinyl-matt-1l",
+  "sku": "CROWN-VINYL-MATT-1",
+  "category": "emulsion-paint",
+  "subcategory": "Emulsion Paint",
+  "brand": "Crown",
+  "description": "Crown Vinyl Matt Emulsion 1 Litre for interior walls and ceilings. Ask us about available colours.",
+  "price": 700,
+  "previousPrice": null,
+  "priceUnit": "per 1L",
+  "currency": "KES",
+  "mainImage": "/images/products/paint/crown-vinyl-matt-1l.jpg",
+  "images": [
+    "/images/products/paint/crown-vinyl-matt-1l.jpg"
+  ],
+  "imageAlt": "Crown Vinyl Matt Emulsion 1 Litre",
+  "availability": "available",
+  "hidden": false,
+  "featured": true,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Brand",
+      "value": "Crown"
+    },
+    {
+      "label": "Pack size",
+      "value": "1 litre"
+    }
+  ],
+  "seoTitle": "Crown Vinyl Matt Emulsion 1 Litre | Jumbo Sales",
+  "seoDescription": "Crown Vinyl Matt Emulsion 1 Litre at KSh 700 per 1L from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

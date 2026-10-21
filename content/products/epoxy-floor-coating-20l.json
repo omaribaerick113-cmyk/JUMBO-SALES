@@ -1,0 +1,31 @@
+{
+  "name": "Epoxy Floor Coating 20 Litres",
+  "slug": "epoxy-floor-coating-20l",
+  "sku": "EPOXY-FLOOR-COATIN",
+  "category": "epoxy",
+  "subcategory": "Epoxy Coating",
+  "brand": "",
+  "description": "Epoxy floor coating supplied in a 20 litre pack.",
+  "price": 4500,
+  "previousPrice": null,
+  "priceUnit": "per 20L",
+  "currency": "KES",
+  "mainImage": "/images/products/epoxy/epoxy-floor-coating-20l.jpg",
+  "images": [
+    "/images/products/epoxy/epoxy-floor-coating-20l.jpg"
+  ],
+  "imageAlt": "Epoxy Floor Coating 20 Litres",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Pack size",
+      "value": "20 litres"
+    }
+  ],
+  "seoTitle": "Epoxy Floor Coating 20 Litres | Jumbo Sales",
+  "seoDescription": "Epoxy Floor Coating 20 Litres at KSh 4,500 per 20L from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

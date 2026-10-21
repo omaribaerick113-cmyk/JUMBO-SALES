@@ -1,0 +1,32 @@
+{
+  "name": "HDPE Pipe 75mm (2.5\")",
+  "slug": "hdpe-pipe-75mm",
+  "sku": "HDPE-PIPE-75MM",
+  "category": "hdpe-pipes",
+  "subcategory": "HDPE Pipes",
+  "brand": "",
+  "description": "HDPE water pipe, 75mm (2.5\") diameter. Confirm length per roll with us.",
+  "price": 18000,
+  "previousPrice": null,
+  "priceUnit": "per roll",
+  "currency": "KES",
+  "mainImage": "/images/products/pipes/hdpe-pipe-75mm.jpg",
+  "images": [
+    "/images/products/pipes/hdpe-pipe-75mm.jpg",
+    "/images/products/pipes/hdpe-pipe-75mm-2.jpg"
+  ],
+  "imageAlt": "HDPE Pipe 75mm (2.5\")",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Diameter",
+      "value": "75mm"
+    }
+  ],
+  "seoTitle": "HDPE Pipe 75mm (2.5\") | Jumbo Sales",
+  "seoDescription": "HDPE Pipe 75mm (2.5\") at KSh 18,000 per roll from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

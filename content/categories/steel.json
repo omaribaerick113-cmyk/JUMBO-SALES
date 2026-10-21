@@ -1,0 +1,8 @@
+{
+  "name": "Steel",
+  "slug": "steel",
+  "description": "Reinforcement bars, hollow sections, angle bars and other structural steel.",
+  "image": "/images/categories/steel.jpg",
+  "visible": true,
+  "order": 3
+}

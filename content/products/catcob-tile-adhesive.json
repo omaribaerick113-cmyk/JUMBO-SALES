@@ -1,0 +1,31 @@
+{
+  "name": "Catcob / Generic Tile Adhesive Cement (25kg)",
+  "slug": "catcob-tile-adhesive",
+  "sku": "CATCOB-TILE-ADHESI",
+  "category": "tile-adhesive",
+  "subcategory": "Tile Adhesive",
+  "brand": "",
+  "description": "Catcob / Generic Tile Adhesive Cement (25kg) for fixing ceramic tiles.",
+  "price": 450,
+  "previousPrice": null,
+  "priceUnit": "per 25kg bag",
+  "currency": "KES",
+  "mainImage": "/images/products/adhesive/catcob-tile-adhesive.jpg",
+  "images": [
+    "/images/products/adhesive/catcob-tile-adhesive.jpg"
+  ],
+  "imageAlt": "Catcob / Generic Tile Adhesive Cement (25kg)",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Weight",
+      "value": "25kg"
+    }
+  ],
+  "seoTitle": "Catcob / Generic Tile Adhesive Cement (25kg) | Jumbo Sales",
+  "seoDescription": "Catcob / Generic Tile Adhesive Cement (25kg) at KSh 450 per 25kg bag from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

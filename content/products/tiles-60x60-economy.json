@@ -1,0 +1,31 @@
+{
+  "name": "Ceramic Floor Tile 60x60cm (Standard / Economy)",
+  "slug": "tiles-60x60-economy",
+  "sku": "TILES-60X60-ECONOM",
+  "category": "ceramic-tiles",
+  "subcategory": "Ceramic Tiles",
+  "brand": "",
+  "description": "Ceramic Floor Tile 60x60cm (Standard / Economy). Sold per box.",
+  "price": 2190,
+  "previousPrice": null,
+  "priceUnit": "per box (1.44 m\u00b2)",
+  "currency": "KES",
+  "mainImage": "/images/products/tiles/tiles-60x60-economy.jpg",
+  "images": [
+    "/images/products/tiles/tiles-60x60-economy.jpg"
+  ],
+  "imageAlt": "Ceramic Floor Tile 60x60cm (Standard / Economy)",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Size",
+      "value": "60x60cm"
+    }
+  ],
+  "seoTitle": "Ceramic Floor Tile 60x60cm (Standard / Economy) | Jumbo Sales",
+  "seoDescription": "Ceramic Floor Tile 60x60cm (Standard / Economy) at KSh 2,190 per box (1.44 m\u00b2) from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

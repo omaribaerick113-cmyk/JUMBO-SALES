@@ -1,0 +1,35 @@
+{
+  "name": "Simba Cement 32.5R (50kg)",
+  "slug": "simba-cement-50kg",
+  "sku": "SIMBA-CEMENT-50KG",
+  "category": "cement",
+  "subcategory": "Cement",
+  "brand": "Simba",
+  "description": "Simba Cement 32.5R, 50kg bag. General purpose cement for foundations, walling, plastering and concrete.",
+  "price": 600,
+  "previousPrice": null,
+  "priceUnit": "per bag",
+  "currency": "KES",
+  "mainImage": "/images/products/cement/simba.jpg",
+  "images": [
+    "/images/products/cement/simba.jpg"
+  ],
+  "imageAlt": "Simba Cement 32.5R (50kg)",
+  "availability": "available",
+  "hidden": false,
+  "featured": true,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Grade",
+      "value": "32.5R"
+    },
+    {
+      "label": "Weight",
+      "value": "50kg"
+    }
+  ],
+  "seoTitle": "Simba Cement 32.5R (50kg) | Jumbo Sales",
+  "seoDescription": "Simba Cement 32.5R (50kg) at KSh 600 per bag from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

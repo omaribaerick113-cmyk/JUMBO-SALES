@@ -1,0 +1,35 @@
+{
+  "name": "Box Profile Mabati (Reject Grade)",
+  "slug": "mabati-box-profile-reject",
+  "sku": "MAB-BOX-REJ",
+  "category": "mabati",
+  "subcategory": "Box Profile",
+  "brand": "PLACEHOLDER",
+  "description": "Box Profile Mabati (Reject Grade) \u2014 confirm current stock, length options and colour availability with us.",
+  "price": 200,
+  "previousPrice": null,
+  "priceUnit": "per metre",
+  "currency": "KES",
+  "mainImage": "/images/products/mabati/box-profile-teal-1.jpg",
+  "images": [
+    "/images/products/mabati/box-profile-teal-1.jpg"
+  ],
+  "imageAlt": "Box Profile Mabati (Reject Grade)",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Profile",
+      "value": "Box Profile"
+    },
+    {
+      "label": "Grade",
+      "value": "Reject / Second grade"
+    }
+  ],
+  "seoTitle": "Box Profile Mabati (Reject Grade) | Jumbo Sales",
+  "seoDescription": "Box Profile Mabati (Reject Grade) from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

@@ -1,0 +1,36 @@
+{
+  "name": "DuraCoat Superfast 20 Litres",
+  "slug": "duracoat-superfast-20l",
+  "sku": "DURACOAT-SUPERFAST",
+  "category": "emulsion-paint",
+  "subcategory": "Emulsion Paint",
+  "brand": "DuraCoat",
+  "description": "DuraCoat Superfast 20 Litres for interior walls and ceilings. Ask us about available colours.",
+  "price": 8500,
+  "previousPrice": null,
+  "priceUnit": "per 20L",
+  "currency": "KES",
+  "mainImage": "/images/products/paint/duracoat20.jpg",
+  "images": [
+    "/images/products/paint/duracoat20.jpg",
+    "/images/products/paint/duracoat-shelf.jpg"
+  ],
+  "imageAlt": "DuraCoat Superfast 20 Litres",
+  "availability": "available",
+  "hidden": false,
+  "featured": true,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Brand",
+      "value": "DuraCoat"
+    },
+    {
+      "label": "Pack size",
+      "value": "20 litres"
+    }
+  ],
+  "seoTitle": "DuraCoat Superfast 20 Litres | Jumbo Sales",
+  "seoDescription": "DuraCoat Superfast 20 Litres at KSh 8,500 per 20L from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

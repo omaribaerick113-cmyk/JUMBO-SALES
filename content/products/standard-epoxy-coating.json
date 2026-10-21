@@ -1,0 +1,31 @@
+{
+  "name": "Standard Epoxy Coating",
+  "slug": "standard-epoxy-coating",
+  "sku": "STANDARD-EPOXY-COA",
+  "category": "epoxy",
+  "subcategory": "Epoxy Coating",
+  "brand": "",
+  "description": "Standard epoxy floor coating, priced per square metre applied.",
+  "price": 2500,
+  "previousPrice": null,
+  "priceUnit": "per m\u00b2",
+  "currency": "KES",
+  "mainImage": "/images/products/epoxy/standard-epoxy-coating.jpg",
+  "images": [
+    "/images/products/epoxy/standard-epoxy-coating.jpg"
+  ],
+  "imageAlt": "Standard Epoxy Coating",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Type",
+      "value": "Standard"
+    }
+  ],
+  "seoTitle": "Standard Epoxy Coating | Jumbo Sales",
+  "seoDescription": "Standard Epoxy Coating at KSh 2,500 per m\u00b2 from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

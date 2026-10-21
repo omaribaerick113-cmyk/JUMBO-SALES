@@ -1,0 +1,36 @@
+{
+  "name": "Rectangular Hollow Section 75x50mm",
+  "slug": "steel-rhs-75x50",
+  "sku": "STL-RHS-7550",
+  "category": "steel",
+  "subcategory": "Hollow Sections",
+  "brand": "PLACEHOLDER",
+  "description": "Confirm exact current price and stock with us \u2014 this listing shows a typical market estimate for this size.",
+  "price": 5725,
+  "previousPrice": null,
+  "priceUnit": "per length",
+  "currency": "KES",
+  "mainImage": "/images/products/steel/hollow-sections-1.jpg",
+  "images": [
+    "/images/products/steel/hollow-sections-1.jpg",
+    "/images/products/steel/hollow-sections-3.jpg"
+  ],
+  "imageAlt": "Rectangular Hollow Section 75x50mm",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Type",
+      "value": "Rectangular Hollow Section"
+    },
+    {
+      "label": "Size",
+      "value": "75 x 50mm"
+    }
+  ],
+  "seoTitle": "Rectangular Hollow Section 75x50mm | Jumbo Sales",
+  "seoDescription": "Rectangular Hollow Section 75x50mm from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

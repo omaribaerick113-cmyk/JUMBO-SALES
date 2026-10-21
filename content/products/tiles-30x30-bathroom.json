@@ -1,0 +1,31 @@
+{
+  "name": "Ceramic Floor Tile 30x30cm (Bathroom)",
+  "slug": "tiles-30x30-bathroom",
+  "sku": "TILES-30X30-BATHRO",
+  "category": "ceramic-tiles",
+  "subcategory": "Ceramic Tiles",
+  "brand": "",
+  "description": "Ceramic Floor Tile 30x30cm (Bathroom). Sold per box.",
+  "price": 1080,
+  "previousPrice": null,
+  "priceUnit": "per box (1.35 m\u00b2)",
+  "currency": "KES",
+  "mainImage": "/images/products/tiles/tiles-30x30-bathroom.jpg",
+  "images": [
+    "/images/products/tiles/tiles-30x30-bathroom.jpg"
+  ],
+  "imageAlt": "Ceramic Floor Tile 30x30cm (Bathroom)",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Size",
+      "value": "30x30cm"
+    }
+  ],
+  "seoTitle": "Ceramic Floor Tile 30x30cm (Bathroom) | Jumbo Sales",
+  "seoDescription": "Ceramic Floor Tile 30x30cm (Bathroom) at KSh 1,080 per box (1.35 m\u00b2) from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

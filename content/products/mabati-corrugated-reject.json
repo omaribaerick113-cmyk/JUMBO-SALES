@@ -1,0 +1,35 @@
+{
+  "name": "Corrugated Mabati (Reject Grade)",
+  "slug": "mabati-corrugated-reject",
+  "sku": "MAB-COR-REJ",
+  "category": "mabati",
+  "subcategory": "Corrugated",
+  "brand": "PLACEHOLDER",
+  "description": "Corrugated Mabati (Reject Grade) \u2014 confirm current stock, length options and colour availability with us.",
+  "price": 150,
+  "previousPrice": null,
+  "priceUnit": "per metre",
+  "currency": "KES",
+  "mainImage": "/images/products/mabati/corrugated-unpainted-1.jpg",
+  "images": [
+    "/images/products/mabati/corrugated-unpainted-1.jpg"
+  ],
+  "imageAlt": "Corrugated Mabati (Reject Grade)",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Profile",
+      "value": "Corrugated"
+    },
+    {
+      "label": "Grade",
+      "value": "Reject / Second grade"
+    }
+  ],
+  "seoTitle": "Corrugated Mabati (Reject Grade) | Jumbo Sales",
+  "seoDescription": "Corrugated Mabati (Reject Grade) from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

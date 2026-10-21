@@ -1,0 +1,35 @@
+{
+  "name": "Crown Vinyl Matt Emulsion 20 Litres",
+  "slug": "crown-vinyl-20l",
+  "sku": "CROWN-VINYL-20L",
+  "category": "emulsion-paint",
+  "subcategory": "Emulsion Paint",
+  "brand": "Crown",
+  "description": "Crown Vinyl Matt Emulsion 20 Litres for interior walls and ceilings. Ask us about available colours.",
+  "price": 10000,
+  "previousPrice": null,
+  "priceUnit": "per 20L",
+  "currency": "KES",
+  "mainImage": "/images/products/paint/vinylmatt.jpg",
+  "images": [
+    "/images/products/paint/vinylmatt.jpg"
+  ],
+  "imageAlt": "Crown Vinyl Matt Emulsion 20 Litres",
+  "availability": "available",
+  "hidden": false,
+  "featured": true,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Brand",
+      "value": "Crown"
+    },
+    {
+      "label": "Pack size",
+      "value": "20 litres"
+    }
+  ],
+  "seoTitle": "Crown Vinyl Matt Emulsion 20 Litres | Jumbo Sales",
+  "seoDescription": "Crown Vinyl Matt Emulsion 20 Litres at KSh 10,000 per 20L from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

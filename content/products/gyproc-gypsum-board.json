@@ -1,0 +1,31 @@
+{
+  "name": "Gyproc Gypsum Board (9-12mm)",
+  "slug": "gyproc-gypsum-board",
+  "sku": "GYPROC-GYPSUM-BOAR",
+  "category": "gypsum",
+  "subcategory": "Gypsum Board",
+  "brand": "Gyproc",
+  "description": "Gyproc standard/regular gypsum board, 9-12mm.",
+  "price": 1550,
+  "previousPrice": null,
+  "priceUnit": "per piece",
+  "currency": "KES",
+  "mainImage": "/images/products/gypsum/gyproc.jpg",
+  "images": [
+    "/images/products/gypsum/gyproc.jpg"
+  ],
+  "imageAlt": "Gyproc Gypsum Board (9-12mm)",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Brand",
+      "value": "Gyproc"
+    }
+  ],
+  "seoTitle": "Gyproc Gypsum Board (9-12mm) | Jumbo Sales",
+  "seoDescription": "Gyproc Gypsum Board (9-12mm) at KSh 1,550 per piece from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

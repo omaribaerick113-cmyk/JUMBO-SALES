@@ -1,0 +1,17 @@
+{
+  "businessName": "Jumbo Sales",
+  "businessDescription": "Hardware & Construction",
+  "phone": "0141017778",
+  "whatsapp": "0141017778",
+  "email": "jumbosales176@gmail.com",
+  "location": "Kenya — we serve customers countrywide",
+  "openingHours": "Monday - Friday: 8:00 AM - 5:00 PM, Saturday: 9:00 AM - 1:00 PM, Sunday: Closed",
+  "businessHours": {
+    "weekdays": "Monday - Friday: 8:00 AM - 5:00 PM",
+    "saturday": "Saturday: 9:00 AM - 1:00 PM",
+    "sunday": "Sunday: Closed"
+  },
+  "serviceAreas": "Countrywide Kenya. Order online via WhatsApp or a quote request; delivery is arranged based on your location.",
+  "deliveryInfo": "Delivery may depend on the product, quantity, your location and order size. Contact us on WhatsApp or by phone for a delivery quote.",
+  "social": { "facebook": "", "instagram": "", "tiktok": "", "youtube": "" }
+}

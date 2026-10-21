@@ -1,0 +1,31 @@
+{
+  "name": "Izomic Ceramic Tile Adhesive (25kg)",
+  "slug": "izomic-tile-adhesive",
+  "sku": "IZOMIC-TILE-ADHESI",
+  "category": "tile-adhesive",
+  "subcategory": "Tile Adhesive",
+  "brand": "",
+  "description": "Izomic Ceramic Tile Adhesive (25kg) for fixing ceramic tiles.",
+  "price": 500,
+  "previousPrice": null,
+  "priceUnit": "per 25kg bag",
+  "currency": "KES",
+  "mainImage": "/images/products/adhesive/izomic-tile-adhesive.jpg",
+  "images": [
+    "/images/products/adhesive/izomic-tile-adhesive.jpg"
+  ],
+  "imageAlt": "Izomic Ceramic Tile Adhesive (25kg)",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Weight",
+      "value": "25kg"
+    }
+  ],
+  "seoTitle": "Izomic Ceramic Tile Adhesive (25kg) | Jumbo Sales",
+  "seoDescription": "Izomic Ceramic Tile Adhesive (25kg) at KSh 500 per 25kg bag from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Knauf Gypsum Board (9-12mm)",
+  "slug": "knauf-gypsum-board",
+  "sku": "KNAUF-GYPSUM-BOARD",
+  "category": "gypsum",
+  "subcategory": "Gypsum Board",
+  "brand": "Knauf",
+  "description": "Knauf standard/regular gypsum board, 9-12mm.",
+  "price": 1200,
+  "previousPrice": null,
+  "priceUnit": "per piece",
+  "currency": "KES",
+  "mainImage": "/images/products/gypsum/knauf.jpg",
+  "images": [
+    "/images/products/gypsum/knauf.jpg"
+  ],
+  "imageAlt": "Knauf Gypsum Board (9-12mm)",
+  "availability": "available",
+  "hidden": false,
+  "featured": false,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Brand",
+      "value": "Knauf"
+    }
+  ],
+  "seoTitle": "Knauf Gypsum Board (9-12mm) | Jumbo Sales",
+  "seoDescription": "Knauf Gypsum Board (9-12mm) at KSh 1,200 per piece from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}

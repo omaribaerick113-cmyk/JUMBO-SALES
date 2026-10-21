@@ -1,0 +1,35 @@
+{
+  "name": "Crown Covermatt / Undercoat 20 Litres",
+  "slug": "crown-covermatt-undercoat-20l",
+  "sku": "CROWN-COVERMATT-UN",
+  "category": "emulsion-paint",
+  "subcategory": "Emulsion Paint",
+  "brand": "Crown",
+  "description": "Crown Covermatt / Undercoat 20 Litres for interior walls and ceilings. Ask us about available colours.",
+  "price": 4400,
+  "previousPrice": null,
+  "priceUnit": "per 20L",
+  "currency": "KES",
+  "mainImage": "/images/products/paint/covermatt20.jpg",
+  "images": [
+    "/images/products/paint/covermatt20.jpg"
+  ],
+  "imageAlt": "Crown Covermatt / Undercoat 20 Litres",
+  "availability": "available",
+  "hidden": false,
+  "featured": true,
+  "deliveryAvailable": true,
+  "attributes": [
+    {
+      "label": "Brand",
+      "value": "Crown"
+    },
+    {
+      "label": "Pack size",
+      "value": "20 litres"
+    }
+  ],
+  "seoTitle": "Crown Covermatt / Undercoat 20 Litres | Jumbo Sales",
+  "seoDescription": "Crown Covermatt / Undercoat 20 Litres at KSh 4,400 per 20L from Jumbo Sales, hardware and construction suppliers in Kenya.",
+  "demo": false
+}
